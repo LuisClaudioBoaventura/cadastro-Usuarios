@@ -19,7 +19,7 @@ const PersonList = () => {
                     Lista de Pessoas
                         </div>
                 <div className="card-body">
-                    <h5 className="card-title">Não listado</h5>
+                    <h5 className="card-title">Oh não!!Sua lista está vazia</h5>
                     <p className="card-text">Adicione pessoas a Lista</p>
                 </div>
             </div>
